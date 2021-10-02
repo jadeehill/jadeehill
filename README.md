@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadeehill
 - 🌱 I’m currently studying a Networking and Cyber Security Degree
-- 💞️ I’m looking to collaborate on coding projects to improve Python skills!"
+- 💞️ I’m looking to collaborate on coding projects to improve Python skills!
 
 <!---
 jadeehill/jadeehill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
